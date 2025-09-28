@@ -7,7 +7,7 @@ This college-funded project was a quest to defeat these enemies and give our rob
 
 ---
 
-## 🎯 Our Mission: The Power-Up Quest
+## 🎯 Our Mission: The Power-Up Quest...
 
 Our goal was to become the ultimate "battery whisperer" for our humanoid. To do this, we had to:
 
